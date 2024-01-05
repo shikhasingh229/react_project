@@ -1,4 +1,4 @@
-4564
+4568
 65D:\Namaste React\Coding\react_project\node_modules\posthtml\types133488716925523653 1
 91D:\Namaste React\Coding\react_project\node_modules\chrome-trace-event\dist\trace-event.d.ts121436361000000000 0
 98D:\Namaste React\Coding\react_project\node_modules\@swc\helpers\_\_class_private_field_destructure133488716943498437 1
@@ -30,7 +30,7 @@
 89D:\Namaste React\Coding\react_project\node_modules\@parcel\utils\src\isDirectoryInside.js121436361000000000 0
 90D:\Namaste React\Coding\react_project\node_modules\htmlparser2\lib\WritableStream.d.ts.map121436361000000000 0
 70D:\Namaste React\Coding\react_project\node_modules\fill-range\index.js121436361000000000 0
-50D:\Namaste React\Coding\react_project\package.json133489271572800359 0
+50D:\Namaste React\Coding\react_project\package.json133489272344495855 0
 78D:\Namaste React\Coding\react_project\node_modules\@parcel\reporter-tracer\src133488716916665640 1
 99D:\Namaste React\Coding\react_project\node_modules\@babel\highlight\node_modules\has-flag\readme.md131593942790000000 0
 75D:\Namaste React\Coding\react_project\node_modules\abortcontroller-polyfill133488716966891774 1
@@ -38,11 +38,11 @@
 105D:\Namaste React\Coding\react_project\node_modules\lmdb\node_modules\node-addon-api\napi-inl.deprecated.h121436361000000000 0
 100D:\Namaste React\Coding\react_project\node_modules\@parcel\runtime-js\src\helpers\node\css-loader.js121436361000000000 0
 91D:\Namaste React\Coding\react_project\node_modules\@parcel\diagnostic\test\markdown.test.js121436361000000000 0
-42D:\Namaste React\Coding\react_project\dist133489239546325711 1
+42D:\Namaste React\Coding\react_project\dist133489353080862942 1
 89D:\Namaste React\Coding\react_project\node_modules\svgo\lib\svgo\css-style-declaration.js121436361000000000 0
 97D:\Namaste React\Coding\react_project\node_modules\@parcel\package-manager\test\fixtures\packages133488716927058464 1
 82D:\Namaste React\Coding\react_project\node_modules\@parcel\source-map\dist\wasm.js121436361000000000 0
-44D:\Namaste React\Coding\react_project\App.js133489239674700414 0
+44D:\Namaste React\Coding\react_project\App.js133489353076933987 0
 59D:\Namaste React\Coding\react_project\node_modules\boolbase133488716966901737 1
 74D:\Namaste React\Coding\react_project\node_modules\posthtml-render\license121436361000000000 0
 101D:\Namaste React\Coding\react_project\node_modules\caniuse-lite\data\features\internationalization.js121436361000000000 0
@@ -759,7 +759,7 @@
 88D:\Namaste React\Coding\react_project\node_modules\@swc\helpers\_\_decorate\package.json121436361000000000 0
 81D:\Namaste React\Coding\react_project\node_modules\type-fest\ts41\kebab-case.d.ts121436361000000000 0
 71D:\Namaste React\Coding\react_project\node_modules\msgpackr-extract\bin133488716926635405 1
-65D:\Namaste React\Coding\react_project\dist\index.3a01df49.css.map133488723346008167 0
+65D:\Namaste React\Coding\react_project\dist\index.3a01df49.css.map133489273859605982 0
 82D:\Namaste React\Coding\react_project\node_modules\type-fest\ts41\pascal-case.d.ts121436361000000000 0
 66D:\Namaste React\Coding\react_project\node_modules\srcset\index.js121436361000000000 0
 83D:\Namaste React\Coding\react_project\node_modules\nth-check\lib\esm\compile.js.map121436361000000000 0
@@ -881,6 +881,7 @@
 80D:\Namaste React\Coding\react_project\node_modules\source-map\dist\source-map.js131511695990000000 0
 99D:\Namaste React\Coding\react_project\node_modules\caniuse-lite\data\features\css-default-pseudo.js121436361000000000 0
 69D:\Namaste React\Coding\react_project\node_modules\tslib\package.json133488716968660962 0
+65D:\Namaste React\Coding\react_project\dist\index.1e2b8b93.css.map133489272426635672 0
 70D:\Namaste React\Coding\react_project\node_modules\get-port\index.d.ts121436361000000000 0
 67D:\Namaste React\Coding\react_project\node_modules\tslib\tslib.d.ts121436361000000000 0
 123D:\Namaste React\Coding\react_project\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-test133488716970312396 0
@@ -1150,6 +1151,7 @@
 83D:\Namaste React\Coding\react_project\node_modules\semver\internal\parse-options.js121436361000000000 0
 68D:\Namaste React\Coding\react_project\node_modules\scheduler\LICENSE121436361000000000 0
 92D:\Namaste React\Coding\react_project\node_modules\caniuse-lite\data\features\shadowdomv1.js121436361000000000 0
+60D:\Namaste React\Coding\react_project\dist\index.4fe99f1e.js133489272426455610 0
 74D:\Namaste React\Coding\react_project\node_modules\strip-ansi\package.json133488716968660962 0
 64D:\Namaste React\Coding\react_project\node_modules\semver\ranges133488716932541884 1
 82D:\Namaste React\Coding\react_project\node_modules\caniuse-lite\data\regions\LS.js121436361000000000 0
@@ -4289,7 +4291,7 @@
 137D:\Namaste React\Coding\react_project\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\index.js121436361000000000 0
 141D:\Namaste React\Coding\react_project\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json121436361000000000 0
 142D:\Namaste React\Coding\react_project\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json121436361000000000 0
-60D:\Namaste React\Coding\react_project\dist\index.7826abd7.js133489239546124398 0
+60D:\Namaste React\Coding\react_project\dist\index.7826abd7.js133489353080748148 0
 93D:\Namaste React\Coding\react_project\node_modules\@parcel\core\test\fixtures\parcel\other.js121436361000000000 0
 97D:\Namaste React\Coding\react_project\node_modules\@parcel\core\test\fixtures\parcel\package.json121436361000000000 0
 94D:\Namaste React\Coding\react_project\node_modules\@parcel\core\test\fixtures\parcel\yarn.lock121436361000000000 0
@@ -4560,6 +4562,8 @@
 64D:\Namaste React\Coding\react_project\node_modules\.bin\svgo.cmd133488716970489089 0
 64D:\Namaste React\Coding\react_project\node_modules\.bin\svgo.ps1133488716970489089 0
 82D:\Namaste React\Coding\react_project\node_modules\.bin\update-browserslist-db.ps1133488716970524113 0
-61D:\Namaste React\Coding\react_project\dist\index.3a01df49.css133488723346008167 0
-64D:\Namaste React\Coding\react_project\dist\index.7826abd7.js.map133489239546288716 0
-53D:\Namaste React\Coding\react_project\dist\index.html133488723347253434 0
+61D:\Namaste React\Coding\react_project\dist\index.1e2b8b93.css133489272426455610 0
+61D:\Namaste React\Coding\react_project\dist\index.3a01df49.css133489273859455925 0
+64D:\Namaste React\Coding\react_project\dist\index.4fe99f1e.js.map133489272426640184 0
+64D:\Namaste React\Coding\react_project\dist\index.7826abd7.js.map133489353080862942 0
+53D:\Namaste React\Coding\react_project\dist\index.html133489272426455610 0

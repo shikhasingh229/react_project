@@ -1,26 +1,33 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 
-const head1 = React.createElement(
-  "h1",
-  { className: "header", key: "k1" },
-  "Namaste Everyone!"
+//react element
+const Title=(
+  <h1>This is Title </h1>
 );
 
-const head2 = React.createElement(
-  "h2",
-  { className: "header", key: "k2" },//key is added to improve performance
-  "Kaise H Aaplog?"
-);
+//react functional component
 
-const cont = React.createElement(
-  "div",
-  {
-    id: "container",
-  },
-  [head1, head2]
+const Foot=()=>{
+  return(
+    <>
+    <h3>This is Footer</h3>
+    </>
+  );
+}
+
+const Main=()=>(
+  <>
+    {Title}
+    <div>
+    <h2>This is second title</h2>
+    <p>This is body</p>
+    </div>
+    {Foot()}
+    {<Foot/>}
+  </>
 );
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
-root.render(cont);
+root.render(<Main></Main>);
