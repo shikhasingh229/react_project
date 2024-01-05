@@ -1,0 +1,31 @@
+{
+  "name": "react_project",
+  "version": "1.0.0",
+  "description": "My first app without using create-react-app",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build":"parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shikhasingh229/react_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shikhasingh229/react_project/issues"
+  },
+  "homepage": "https://github.com/shikhasingh229/react_project#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 2 versions"
+  ]
+}

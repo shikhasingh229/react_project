@@ -1,16 +1,26 @@
-const head1 = React.createElement("h1",
-{class:"header"},
-"Namaste Everyone!")
+import React from "react";
+import ReactDOM from "react-dom/client";
 
-const head2 = React.createElement("h2",
-{class:"header"},
-"Kaise H Aaplog?")
+const head1 = React.createElement(
+  "h1",
+  { className: "header", key: "k1" },
+  "Namaste Everyone!"
+);
 
-const cont=React.createElement("div",
-{
-    id:"container"
-},[head1,head2])
+const head2 = React.createElement(
+  "h2",
+  { className: "header", key: "k2" },//key is added to improve performance
+  "Kaise H Aaplog?"
+);
 
-const root= ReactDOM.createRoot(document.getElementById('root'));
+const cont = React.createElement(
+  "div",
+  {
+    id: "container",
+  },
+  [head1, head2]
+);
 
-root.render(cont)
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
+root.render(cont);
