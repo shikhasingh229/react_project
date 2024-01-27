@@ -1,0 +1,261 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+/* 
+Header
+
+.head{
+    display: flex;
+    margin: 1rem;
+    justify-content: space-between;
+}
+
+.ima{
+    width:7rem;
+    height: 4rem;
+    margin: 0;
+  } 
+.nav-items > ul{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+
+.nav-items > ul > li{
+    padding: 0.4rem;
+    font-weight: bolder;
+    font-size: large;
+}
+
+*/
+
+
+
+
+.card{
+    width: 22rem;
+    border: 0.1rem solid plum;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+.card>div>img{
+    width: 100%;
+    height:15rem;
+}
+.restaurant-list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color:white;
+    font-size: larger;
+    font-weight: bold;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 0.8rem;
+    left: 0.6rem;
+  }
+  
+  .imN{
+    margin: 2rem;
+    padding: 1rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .imN > img{
+    width: 40rem;
+    
+  }
+
+
+  /* Shimmer */
+
+  
+  .card-shi {
+    position: relative;
+    -webkit-box-shadow: 0 .6rem .8rem rgba(0, 0, 0, 0.1);
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.1);
+    background-color: #FFF;
+    border-radius: .6rem;
+    height: 25rem;
+    overflow: hidden;
+    width: 22rem;
+    margin: 0.5rem;
+    border: solid rgb(208, 204, 199);
+  }
+  .shimmerBG {
+    animation-duration: 2.2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-name: shimmer;
+    animation-timing-function: linear;
+    background: #ddd;
+    background: linear-gradient(to right, #F6F6F6 8%, #F0F0F0 18%, #F6F6F6 33%);
+    background-size: 120rem 100%;
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: -120rem 0;
+    }
+    100% {
+        background-position: 120rem 0;
+    }
+}
+  
+.media {
+    height: 10rem;
+}
+
+.p-32 {
+    padding: 3.2rem;
+}
+
+.title-line {
+    height: 1.24rem;
+    width: 100%;
+    margin-bottom: 0.2rem;
+    border-radius: .2rem;
+}
+
+.content-line {
+    height: .8rem;
+    width: 100%;
+    margin-bottom: 1.6rem;
+    border-radius: .8rem;
+}
+  
+  .end {
+      width: 40%;
+    }
+
+
+.m-t-24 {
+    margin-top: 2.4rem;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+/* Footer */
+/* .footer {
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 5rem;
+  } */
+/* 
+  Inside Res menu */
+.cardLabel{
+    height: 15rem;
+    border: 0.1rem solid black;
+    border-bottom-width: 0.01rem;
+    border-bottom: dashed;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h5{
+    font-size: medium;
+    font-weight:500;
+}
+h3{
+    font-weight: 700;
+    font-size: large;
+}
+
+.cardLabel>div{
+    width: 100%;
+    height:15rem;
+}
+
+
+.menu{
+    padding: 0.5rem;
+    margin: 0.5rem;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+.dabba{
+    width: 1000%;
+    border: 0.1px solid black;
+    display: flex;
+    padding: 0.5px;
+    margin: 0.1px;
+    flex-wrap: wrap;
+    align-items: center;
+    overflow:hidden;
+    height: auto;
+}
+
+.menu>div>div{
+    width: 40%;
+    height:auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.menu>div>div>img{
+    width:5rem;
+    height:5rem;
+}
+
+/* Profile Page */
+.myP{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border: 0.1rem solid gray;
+    height: 30rem;
+    width: 90%;
+    margin: 1rem;
+}
+.myP >div> img{
+    width: 20rem;
+    height: 20rem;
+    padding: 0.5rem;
+    margin: 0.1rem;
+    border: 0.1rem solid black;
+    border-radius: 50%;
+}
+/* About Page */
+.cont{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 0.1rem solid gray;
+    height: 5rem;
+    width: 95%;
+    margin: 1rem;
+    padding:1rem;
+    overflow: hidden;
+    flex-wrap: wrap;
+    flex-direction:row;  
+    position: relative;
+}
+.cont > h5{
+    bottom: 0;
+    position:absolute;
+    color: coral;
+}
